@@ -1,6 +1,7 @@
 #Other Stuff
 /MLCourseSlides.pdf
 /MLCourse/*
+/PastHires.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
